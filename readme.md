@@ -1,2 +1,2 @@
 # backend practice with javascript
-# menter hitesh choudhary
+menter hitesh choudhary
